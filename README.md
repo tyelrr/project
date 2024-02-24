@@ -33,3 +33,12 @@ JSON Forms is rendered by importing and using the `JsonForms` component and dire
 ## Custom renderers
 
 Please see [our corresponding tutorial](https://jsonforms.io/docs/tutorial) on how to add custom renderers.
+
+# Useful Links and References
+
+- [JSON Forms](https://jsonforms.io/): Official website of JSON Forms library.
+- [React](https://reactjs.org/): Official website of React library.
+- [Material-UI](https://material-ui.com/): Official website of Material-UI library.
+- [JSON Schema](https://json-schema.org/): Official website of JSON Schema standard.
+
+
